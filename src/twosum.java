@@ -2,6 +2,8 @@ import java.util.Arrays;
 
 public class twosum {
     public static void main(String[] args) {
+        /* LC easy  - Q.2 */
+
         /* Let nums = [1, 2, 3, 4]
                target = 6
 
@@ -25,3 +27,4 @@ public class twosum {
         return null;
     }
 }
+
