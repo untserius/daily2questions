@@ -1,8 +1,10 @@
+import java.util.Arrays;
+
 public class removeDuplicatesFromSortedArray {
 
 
 
-    static int removeDuplicates(int[] ar) {
+    static int[] removeDuplicates(int[] ar) {
 
         int rd = 0;
 
@@ -12,7 +14,11 @@ public class removeDuplicatesFromSortedArray {
                ar[rd] = ar[i];
            }
         }
-        return rd + 1;
+        int[] nums = new int[rd + 1];
+        for (int i = 0; i <= rd; i++) {
+            nums[i]=ar[i];
+        }
+        return nums;
     }
 
 
@@ -29,15 +35,8 @@ public class removeDuplicatesFromSortedArray {
 
         int[] ar = {2, 2, 3, 3, 4, 6, 6};
 
-        for (int i = 0; i < ar.length; i++) {
-            System.out.print(ar[i] + " ");
-        }
-
-        int rd = removeDuplicates(ar);
-        System.out.println();
-
-        for (int i = 0; i < rd; i++) {
-            System.out.print(ar[i] + "");
-        }
+        int[] nums = removeDuplicates(ar);
+        System.out.println(nums.length);
+        System.out.print(Arrays.toString(nums));
     }
 }
