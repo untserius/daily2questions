@@ -18,7 +18,7 @@ public class mergeSort {
     static int valueM(int[] nums1) {
         int m = 0;
         for (int num : nums1) {
-            if (num != 0) {
+            if (num != 0) { // length of nums1 excluding zero elements.
                 m++;
             }
         }
