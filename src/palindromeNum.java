@@ -14,10 +14,9 @@ public class palindromeNum {
     public static void main(String[] args) {
         int n = 121;
 
-        int originalNo = n;
         int reverseNo = revNum(n);
 
-        if (originalNo == reverseNo) {
+        if (n == reverseNo) {
             System.out.println(n + " is a Palindromic Number");
         }
         else {
