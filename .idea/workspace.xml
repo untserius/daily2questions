@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ca36f00-f910-4eab-99b2-1cce66943ee3" name="Changes" comment="files added">
-      <change afterPath="$PROJECT_DIR$/src/palindromeNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseNum.java" afterDir="false" />
+    <list default="true" id="6ca36f00-f910-4eab-99b2-1cce66943ee3" name="Changes" comment="2 files added">
+      <change afterPath="$PROJECT_DIR$/src/checkPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/postIncrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testClass2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +60,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Study/Java/daily2questions challenge&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -121,7 +123,31 @@
       <option name="project" value="LOCAL" />
       <updated>1698045296035</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2 files added">
+      <option name="closed" value="true" />
+      <created>1698061723528</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698061723528</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2 files added">
+      <option name="closed" value="true" />
+      <created>1698061754588</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698061754588</updated>
+    </task>
+    <task id="LOCAL-00010" summary="2 files added">
+      <option name="closed" value="true" />
+      <created>1698061788647</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698061788647</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,7 +168,8 @@
     <MESSAGE value="mergeSort" />
     <MESSAGE value="comment added" />
     <MESSAGE value="files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="files added" />
+    <MESSAGE value="2 files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 files added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -156,11 +183,24 @@
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/testClass.java</url>
+          <line>1</line>
+          <properties class="testClass" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/countDigits.java</url>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
