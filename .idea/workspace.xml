@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ca36f00-f910-4eab-99b2-1cce66943ee3" name="Changes" comment="2 files added">
-      <change afterPath="$PROJECT_DIR$/src/checkPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/postIncrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCDoptimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/armstrongNo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -191,6 +190,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/armstrongNo.java</url>
+          <line>1</line>
+          <properties class="armstrongNo" method="noOfDigits">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/countDigits.java</url>
