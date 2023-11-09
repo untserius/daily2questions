@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ca36f00-f910-4eab-99b2-1cce66943ee3" name="Changes" comment="2 files added">
-      <change afterPath="$PROJECT_DIR$/src/GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GCDoptimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/armstrongNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698061788647</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2 files added">
+      <option name="closed" value="true" />
+      <created>1699384364839</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1699384364839</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +205,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Test.java</url>
+          <line>1</line>
+          <properties class="Test" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/countDigits.java</url>
