@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ca36f00-f910-4eab-99b2-1cce66943ee3" name="Changes" comment="2 files added">
-      <change afterPath="$PROJECT_DIR$/src/print1toN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/printDivisors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/printNto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursionPrintNTimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursionPrintNTimes2.java" afterDir="false" />
+    <list default="true" id="6ca36f00-f910-4eab-99b2-1cce66943ee3" name="Changes" comment="recursion">
+      <change afterPath="$PROJECT_DIR$/src/checkPalindromeRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factorialNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/palindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverseArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sumNnumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +157,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699384364839</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="recursion">
+      <option name="closed" value="true" />
+      <created>1700326734246</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1700326734246</updated>
+    </task>
+    <task id="LOCAL-00013" summary="recursion">
+      <option name="closed" value="true" />
+      <created>1700326804609</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1700326804609</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,7 +195,8 @@
     <MESSAGE value="comment added" />
     <MESSAGE value="files added" />
     <MESSAGE value="2 files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 files added" />
+    <MESSAGE value="recursion" />
+    <option name="LAST_COMMIT_MESSAGE" value="recursion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -227,11 +245,6 @@
           <url>file://$PROJECT_DIR$/src/recursionPrintNTimes2.java</url>
           <line>10</line>
           <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/printNto1.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
