@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ca36f00-f910-4eab-99b2-1cce66943ee3" name="Changes" comment="recursion">
-      <change afterPath="$PROJECT_DIR$/src/checkPalindromeRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorialNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindromeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseArray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sumNnumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Easy/LargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Easy/SecondLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Easy/ThirdLargestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,14 +32,12 @@
     &quot;assignee&quot;: &quot;untserius&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="b9ba9d5c-6b3e-42e9-9056-7d9828e133fe" />
-        <option name="url" value="https://github.com/untserius/daily2questions.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/untserius/daily2questions.git&quot;,
+    &quot;accountId&quot;: &quot;b9ba9d5c-6b3e-42e9-9056-7d9828e133fe&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -56,15 +52,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Study/Java/daily2questions challenge&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LargestElement.executor": "Run",
+    "Application.SecondLargestElement.executor": "Run",
+    "Application.ThirdLargestElement.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Study/Java/daily2questions challenge",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -173,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700326804609</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="recursion">
+      <option name="closed" value="true" />
+      <created>1700498976138</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1700498976138</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
