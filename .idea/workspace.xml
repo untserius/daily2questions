@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ca36f00-f910-4eab-99b2-1cce66943ee3" name="Changes" comment="recursion">
-      <change afterPath="$PROJECT_DIR$/src/Array_Easy/LargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Easy/SecondLargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Easy/ThirdLargestElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Easy/CheckSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Easy/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Easy/RemoveDuplicatesArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,9 +53,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CheckSorted.executor": "Run",
     "Application.LargestElement.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
     "Application.SecondLargestElement.executor": "Run",
-    "Application.ThirdLargestElement.executor": "Debug",
+    "Application.ThirdLargestElement.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
