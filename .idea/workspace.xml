@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ca36f00-f910-4eab-99b2-1cce66943ee3" name="Changes" comment="recursion">
-      <change afterPath="$PROJECT_DIR$/src/Array_Easy/CheckSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Easy/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Easy/RemoveDuplicatesArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/easy/Largest_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/easy/Second_Largest_Second_Smallest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/palindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/palindromeString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +56,12 @@
   "keyToString": {
     "Application.CheckSorted.executor": "Run",
     "Application.LargestElement.executor": "Run",
+    "Application.Largest_Element.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
     "Application.SecondLargestElement.executor": "Run",
+    "Application.Second_Largest_Second_Smallest.executor": "Debug",
     "Application.ThirdLargestElement.executor": "Run",
+    "Application.palindromeString.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -255,6 +259,11 @@
           <url>file://$PROJECT_DIR$/src/recursionPrintNTimes2.java</url>
           <line>10</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/easy/Second_Largest_Second_Smallest.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
