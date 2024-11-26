@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ca36f00-f910-4eab-99b2-1cce66943ee3" name="Changes" comment="recursion">
-      <change afterPath="$PROJECT_DIR$/src/array/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/easy/Largest_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/easy/Second_Largest_Second_Smallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/easy/Check_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/easy/Check_Sorted_Array_BF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/easy/Check_Sorted_Array_OA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/easy/Second_Largest_Second_Smallest_Optimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/palindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/palindromeString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/easy/Second_Largest_Second_Smallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/Second_Largest_Second_Smallest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +56,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CheckSorted.executor": "Run",
+    "Application.Check_Sorted_Array.executor": "Run",
+    "Application.Check_Sorted_Array_BF.executor": "Run",
+    "Application.Check_Sorted_Array_OA.executor": "Run",
     "Application.LargestElement.executor": "Run",
     "Application.Largest_Element.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
     "Application.SecondLargestElement.executor": "Run",
-    "Application.Second_Largest_Second_Smallest.executor": "Debug",
+    "Application.Second_Largest_Second_Smallest.executor": "Run",
+    "Application.Second_Largest_Second_Smallest_Optimal.executor": "Run",
     "Application.ThirdLargestElement.executor": "Run",
     "Application.palindromeString.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -251,6 +256,15 @@
           </properties>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/array/easy/Check_Sorted_Array_BF.java</url>
+          <line>12</line>
+          <properties class="array.easy.Check_Sorted_Array_BF" method="check">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/countDigits.java</url>
           <option name="timeStamp" value="3" />
@@ -262,7 +276,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/array/easy/Second_Largest_Second_Smallest.java</url>
-          <line>10</line>
+          <line>13</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
