@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ca36f00-f910-4eab-99b2-1cce66943ee3" name="Changes" comment="recursion">
-      <change afterPath="$PROJECT_DIR$/src/array/easy/Remove_Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/easy/Left_Rotate_Array_By_D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/easy/Left_Rotate_Array_FT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +58,8 @@
     "Application.Check_Sorted_Array_OA.executor": "Run",
     "Application.LargestElement.executor": "Run",
     "Application.Largest_Element.executor": "Run",
+    "Application.Left_Rotate_Array_By_D.executor": "Run",
+    "Application.Left_Rotate_Array_FT.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
     "Application.Remove_Duplicates.executor": "Run",
     "Application.SecondLargestElement.executor": "Run",
@@ -275,6 +278,11 @@
           <url>file://$PROJECT_DIR$/src/array/easy/Second_Largest_Second_Smallest.java</url>
           <line>13</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/easy/Left_Rotate_Array_By_D.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
