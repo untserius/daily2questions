@@ -28,12 +28,11 @@ public class Left_Rotate_Array_By_D {
         }
 
         //put back the temporary elements
-        int j = 0;
-        for (int i = lengthOfArr - rotationTime; i < lengthOfArr; i++) {
-            arr[i] = temp[j];
-            j++;
-        }
-
+//        int j = 0;
+//        for (int i = lengthOfArr - rotationTime; i < lengthOfArr; i++) {
+//            arr[i] = temp[j];
+//            j++;
+//        }
 
         // more mathematically
         for (int i = lengthOfArr - rotationTime; i < lengthOfArr; i++) {
